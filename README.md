@@ -61,8 +61,9 @@ I’m passionate about creating scalable and **user-friendly applications.**
 [![trophy](https://github-profile-trophy.vercel.app/?username=raseduzzaman-rased&theme=dracula&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=raseduzzaman-rased&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=raseduzzaman-rased&show_icons=true&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub streak stats](https://streak-stats.demolab.com/?user=raseduzzaman-rased&theme=dark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseduzzaman-rased&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=raseduzzaman-rased)  
