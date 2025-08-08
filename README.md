@@ -43,7 +43,5 @@ Skills: HTML / CSS / Tailwind / JavaScript / React / Node.js / Express.js / Fire
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raseduzzaman-rased&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/?user=raseduzzaman-rased)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=raseduzzaman-rased)  
 
