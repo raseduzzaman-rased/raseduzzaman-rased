@@ -11,15 +11,7 @@ Currently, I’m working remotely as an **Assistant Marketing Manager** for a Ge
 
 Alongside my job, I completed a comprehensive **web development course** from Programming Hero. During this journey, I built several frontend and full-stack projects, which helped me gain strong hands-on experience.
 
-**I’m skilled in:**
-- HTML, CSS, Tailwind  
-- JavaScript, React  
-- Node.js, Express.js  
-- Firebase, MongoDB  
-
 I’m passionate about creating scalable and **user-friendly applications.**
-
-Outside of work and coding, I love traveling and exploring new places **to enhance my adaptability.** I also enjoy reading tech blogs and articles to **stay updated** with the latest trends and continuously improve my skills.
 
 <h3>Things I code with</h3>
 <p>
