@@ -65,5 +65,5 @@ I’m passionate about creating scalable and **user-friendly applications.**
 | [![Stats](https://github-readme-stats.vercel.app/api?username=raseduzzaman-rased&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=raseduzzaman-rased&show_icons=true&theme=radical) | ![GitHub streak stats](https://streak-stats.demolab.com/?user=raseduzzaman-rased&theme=dark) |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseduzzaman-rased&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseduzzaman-rased&langs_count=8&theme=radical)](https://github.com/raseduzzaman-rased)
 
